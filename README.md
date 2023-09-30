@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Simple Compound Watcher
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## This bot watches for changes in the Compound USDC pool. Specifically, for withdrawals of WBTC
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+### In the future the bot will be able to watch for any token in any pool and also send notifications
