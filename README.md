@@ -8,7 +8,7 @@
 
 #### 0. Copy this repo and create a .env file in the root directory
 
-#### 1. Go to BotFather and create a new bot
+#### 1. Go to BotFather (search BotFather in Telegram) and create a new bot
 
 #### 2. Copy the token and paste it into the .env file. <TELEGRAM_BOT_TOKEN>
 
