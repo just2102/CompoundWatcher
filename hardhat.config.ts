@@ -7,7 +7,7 @@ const config: HardhatUserConfig = {
   solidity: "0.8.18",
   networks: {
     arbitrum: {
-      url: "https://arb1.arbitrum.io/rpc",
+      url: process.env.ARB_RPC,
     },
   },
 };
